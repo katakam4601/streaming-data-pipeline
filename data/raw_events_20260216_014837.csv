@@ -1,0 +1,63 @@
+event_id,event_type,user_id,product,price,timestamp,country,device
+05b017c9-cc5c-4cb0-bf83-81e0df278e97,add_to_cart,810e93d9,Phone,1581.45,2026-02-16T01:35:07.009591,Cayman Islands,tablet
+4e220068-0b7d-4a45-8c31-95db58d588ed,page_view,ef43d2c0,Camera,657.33,2026-02-16T01:35:08.405107,Jersey,tablet
+c72e97f4-c24f-4fe8-a6dc-64e558829311,search,0737c39b,Monitor,313.77,2026-02-16T01:35:09.408925,Hungary,mobile
+caf54221-cf2d-4d40-ae45-927db65ba2ba,purchase,af315677,Speaker,1514.58,2026-02-16T01:35:10.415386,Gambia,mobile
+67cc06e1-9f6f-45f2-b1c4-8c780653e1be,search,aa1fb589,Watch,1886.21,2026-02-16T01:35:11.423173,Indonesia,mobile
+a47990fc-b294-4c8e-b4e0-ad6d16384f57,add_to_cart,1f1c83e4,Speaker,958.18,2026-02-16T01:35:12.428747,Portugal,tablet
+03298385-e40c-42c2-8c6c-43a71fba20e7,purchase,2a8e07b1,Tablet,224.05,2026-02-16T01:35:13.435575,Cape Verde,tablet
+b182587d-f8bb-451c-838a-e00057553439,page_view,19fff312,Tablet,367.24,2026-02-16T01:35:14.442237,Germany,tablet
+6f6d849d-eb94-4b01-b644-8584021b92c1,search,d1d898f1,Laptop,1011.57,2026-02-16T01:35:15.449493,Serbia,tablet
+eea1dc0d-4c1f-4216-b718-c9489a1916eb,purchase,252a346e,Phone,1680.2,2026-02-16T01:35:16.453328,Monaco,mobile
+5bcf8a9a-f475-4be8-ba8f-f593de226145,purchase,511cba0e,Phone,1841.16,2026-02-16T01:35:17.456340,Taiwan,desktop
+4f2e8bbf-cb2d-4bc6-a6cd-4b6b41e61fb0,page_view,fdd37a3b,Monitor,1142.52,2026-02-16T01:35:18.461484,United States Virgin Islands,mobile
+d1ca47cb-c61d-4e59-9573-bb123bd7a266,purchase,91a617ac,Phone,235.89,2026-02-16T01:35:19.465730,Holy See (Vatican City State),tablet
+f8f0f462-0247-4a1d-a4a8-920f3e1cbccd,page_view,144ba0d3,Watch,224.16,2026-02-16T01:35:20.488851,Mayotte,tablet
+8db87411-0ffa-4506-a7f2-9ff2efe59187,add_to_cart,38fcb302,Watch,384.29,2026-02-16T01:35:21.495425,Isle of Man,mobile
+da71dbd0-6379-473d-b6e1-2617031edc02,purchase,f251ef5d,Camera,1854.49,2026-02-16T01:35:22.499055,Saudi Arabia,mobile
+8b9b4cc5-241b-4231-b411-f3c66fa526c5,add_to_cart,b4f0c7cb,Speaker,105.72,2026-02-16T01:35:23.501947,Zambia,mobile
+af943e53-98eb-4ae4-8f7e-b6c2ef8e61c4,page_view,b7851ce2,Camera,851.92,2026-02-16T01:35:24.505408,Jersey,tablet
+763f7b24-f03f-4a9b-8ed6-4c3654d2b48d,page_view,dd2e2dc6,Monitor,599.52,2026-02-16T01:35:25.507695,Romania,tablet
+712f3021-f446-4599-826e-a2037e4d3cae,purchase,b82e8b47,Tablet,1683.62,2026-02-16T01:35:26.513951,Saint Pierre and Miquelon,tablet
+b100ba81-7481-4bb9-975f-4af501ab276a,purchase,03fd86e2,Laptop,1014.84,2026-02-16T01:35:27.520218,Chile,mobile
+76ca8b10-4623-4df6-84b9-c8f1a971fb94,search,1a5637dd,Laptop,267.47,2026-02-16T01:35:28.526574,Malta,tablet
+988094b6-de41-4256-a5b5-525bce997060,search,bd9135e8,Tablet,1902.78,2026-02-16T01:35:29.529575,Senegal,mobile
+d43ef4c6-4551-4e4a-b7fc-5d6f17ce1ffb,purchase,7cb58b42,Speaker,1334.86,2026-02-16T01:35:30.535478,Faroe Islands,mobile
+f54b19dc-8421-4f08-8c8b-52dfcdf2ca1c,purchase,54b9cc61,Tablet,1845.51,2026-02-16T01:35:31.541426,Finland,tablet
+e6b91d62-5da6-44f7-8070-f7dc18b48070,add_to_cart,73a050cb,Speaker,987.84,2026-02-16T01:35:32.547830,Tunisia,desktop
+78a078a8-2ed4-4347-b7d5-42908eb88fd9,add_to_cart,89718058,Watch,779.01,2026-02-16T01:35:33.550273,Jersey,tablet
+c0623100-982c-474b-8bca-e12025278c25,search,a75a5904,Tablet,487.95,2026-02-16T01:35:34.557785,Austria,tablet
+9b6b7c59-44be-4532-a158-ef25700c4e2f,page_view,5755f6b1,Headphones,255.74,2026-02-16T01:35:35.564112,American Samoa,tablet
+970b65bd-edef-48d2-b915-7370076155ab,purchase,a3b7a5ec,Speaker,1658.86,2026-02-16T01:35:36.569842,Antarctica (the territory South of 60 deg S),mobile
+77061d90-2e59-4717-9edb-7c6f7e59562b,search,19f7a999,Phone,834.78,2026-02-16T01:35:37.576217,Madagascar,desktop
+7902334f-4488-49ca-a24e-b440b2720793,page_view,4aecfc99,Camera,830.74,2026-02-16T01:35:38.578692,Cocos (Keeling) Islands,desktop
+f399a509-5897-4cf7-ae1c-bef74b28daa7,page_view,189d8b8a,Monitor,1351.04,2026-02-16T01:35:39.585170,Uruguay,desktop
+4f6a7039-e919-4cb9-a0f1-cb039bdec36a,purchase,c5be0bb2,Monitor,802.25,2026-02-16T01:35:40.590267,Bhutan,tablet
+630153f3-7fcb-426d-95b1-79afcddf7213,add_to_cart,f2cacbe6,Camera,1652.01,2026-02-16T01:35:41.595171,Norway,mobile
+90c9b22f-3926-4185-ad46-705370b3d700,search,92c3bd32,Headphones,242.48,2026-02-16T01:35:42.598946,Papua New Guinea,desktop
+8ba62e29-c852-4487-a915-d40ff7a7f6af,page_view,877574b7,Monitor,1819.69,2026-02-16T01:35:43.602835,Lebanon,mobile
+320a10c0-282e-4d0b-9e1e-e00cd9c5c974,page_view,5f4ccbe2,Monitor,1434.09,2026-02-16T01:35:44.608238,Cape Verde,desktop
+a6b2b508-3598-4da6-ae77-9f4c831237f5,purchase,43f3e4cc,Headphones,961.46,2026-02-16T01:35:45.614611,Senegal,desktop
+1fe86b09-b9cc-43fd-8905-9b9ba27a2c88,page_view,95df677b,Watch,924.14,2026-02-16T01:35:46.619392,Belgium,desktop
+5cd96f10-1779-4f5d-b7b0-19c6076b5268,page_view,108b364f,Headphones,1829.74,2026-02-16T01:47:37.590687,Tunisia,desktop
+b9096154-ee2e-41f5-b920-4899dc1b473a,purchase,699b0225,Watch,1794.51,2026-02-16T01:47:38.707418,Bouvet Island (Bouvetoya),mobile
+e57b290a-f7a2-4d16-a80c-528530d9edfe,purchase,c8e4faac,Headphones,1710.24,2026-02-16T01:47:39.709723,Tajikistan,mobile
+5676eca9-90c4-4e08-9a72-79c274e38eda,search,f64c31f6,Camera,1657.13,2026-02-16T01:47:40.715794,Iraq,desktop
+089cb062-c96c-4588-920d-6b3680e11010,add_to_cart,1f265158,Laptop,1770.67,2026-02-16T01:47:41.721688,Palestinian Territory,desktop
+98729c8c-0813-47cc-977c-90cf0305f8d1,search,5a9fe9a8,Phone,806.09,2026-02-16T01:47:42.725915,Estonia,mobile
+6d88d3e9-7462-461a-909e-84d4fe300bcd,page_view,c53b030f,Phone,929.53,2026-02-16T01:47:43.727500,New Caledonia,desktop
+70113c5b-dcdf-4c79-a58d-a6867750ccfd,page_view,862310f6,Camera,1750.8,2026-02-16T01:47:44.732399,Senegal,mobile
+95fb303c-e086-427b-887d-5a7af8a29e31,add_to_cart,7bb72678,Watch,98.54,2026-02-16T01:47:45.737955,Gambia,desktop
+71b1c97b-6323-4731-8218-a1d4437125a7,add_to_cart,53fae704,Camera,706.38,2026-02-16T01:47:46.742980,Singapore,mobile
+5f40119f-b585-4995-9c2f-19c82a76d059,page_view,a46cb186,Watch,1174.87,2026-02-16T01:47:47.747386,Greece,desktop
+a581d177-9602-4418-b929-23c3397e2d73,search,99a19105,Headphones,1150.14,2026-02-16T01:47:48.751183,Belgium,tablet
+27c8c94c-6fb1-4d62-a1c0-d47555539946,purchase,c5fd639e,Laptop,1015.21,2026-02-16T01:47:49.755667,Cuba,tablet
+e55fe55c-4a06-4ce4-a0b7-feabaca5fc66,page_view,80bc8eb8,Headphones,1383.21,2026-02-16T01:47:50.761962,Benin,mobile
+e983e097-821a-42b7-8713-cfe02270cbe3,purchase,fe3417c0,Phone,1957.74,2026-02-16T01:47:51.765757,Saint Martin,desktop
+5919c8a1-2735-4587-bb31-e50c18ef5118,add_to_cart,54d7ff9e,Headphones,1079.93,2026-02-16T01:47:52.771975,Cambodia,tablet
+083a821b-6221-459c-9ead-23854224f38b,page_view,9d526cfd,Camera,844.04,2026-02-16T01:47:53.776422,Ireland,desktop
+3ef08693-6da9-4b6e-9556-16b04103c05e,search,951e9c9f,Camera,526.23,2026-02-16T01:47:54.779843,Mali,tablet
+47416bf8-b802-45ec-9f41-cf02323c30c0,page_view,ac6817e9,Camera,1510.96,2026-02-16T01:47:55.786281,Angola,desktop
+d7215246-5187-4c8d-a829-d24f79601720,search,bf7ed03f,Phone,499.74,2026-02-16T01:47:56.789721,Pitcairn Islands,mobile
+8a6c9807-31c1-495e-a9f7-3e7e26265c11,purchase,b18c21dc,Camera,1878.44,2026-02-16T01:47:57.795285,Japan,tablet
+424eae16-d035-4460-88ac-7480ed2176e2,add_to_cart,725ee639,Laptop,1749.5,2026-02-16T01:47:58.801596,Indonesia,mobile

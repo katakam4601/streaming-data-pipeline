@@ -1,0 +1,7 @@
+Total Events: 40
+
+Event Counts:
+  add_to_cart: 7
+  page_view: 12
+  search: 8
+  purchase: 13
