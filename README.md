@@ -137,18 +137,6 @@ The dashboard includes:
 - Data visualization
 - Docker containerization
 
-## 📊 Resume Bullet Points
-
-**Streaming Data Pipeline | Kafka, Python, Pandas, Docker**
-
-- Architected end-to-end streaming data pipeline ingesting 100K+ events/hour from Kafka; implemented batch processing with real-time aggregations achieving <30-second latency; built partitioned data lake storing raw events in Parquet format
-
-- Designed data quality framework with 7 automated validation checks achieving 100% quality score; implemented S3-style partitioned storage (year/month/day/hour); created visualization dashboard tracking revenue metrics, event distributions, and device analytics
-
-## 🔧 Stopping the Pipeline
-```bash
-# Stop Kafka containers
-docker-compose down
 ```
 
 ## 📝 Future Enhancements
@@ -160,12 +148,6 @@ docker-compose down
 - [ ] Create real-time monitoring with Grafana
 - [ ] Add CI/CD pipeline
 
-## 👤 Author
-
-**Your Name**
-- LinkedIn: [your-linkedin]
-- GitHub: [your-github]
-- Email: [your-email]
 
 ## 📄 License
 
